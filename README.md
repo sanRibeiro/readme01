@@ -1,5 +1,8 @@
 # Semana DevSuperior 1.0 - Conteúdos de apoio - primeiro EXEMPLO
 
+Este readme foi criado a partir do site de apoio para criar github (não é um projeto meu).
+
+
 Bem-vindos à primeira edição da SDS!
 
 Aqui você vai encontrar os materiais de apoio para instalar as ferramentas necessárias, bem como conteúdos que vamos precisar durante o desenvolvimento de nossa aplicação.
